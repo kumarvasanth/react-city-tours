@@ -5,7 +5,7 @@ export const tourData = [
     img: "./img/newyork.jpeg",
     name: "new york bridge tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City."
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const tourData = [
     img: "./img/paris.jpeg",
     name: "paris lights tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Paris and its iconic monuments stand as visible reminders of some of the most romantic periods of history."
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const tourData = [
     img: "./img/london.jpeg",
     name: "london royal palace tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Top royal London attractions. Buckingham Palace Tour. The Queen's official London residence has a whopping 775 rooms."
   },
   {
     id: 4,
@@ -29,6 +29,6 @@ export const tourData = [
     img: "./img/tokyo.jpeg",
     name: "tokyo sushi tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "This tour is a fun way to get a taste of local Tokyo culture and savor some freshly made sushi!"
   }
 ];
